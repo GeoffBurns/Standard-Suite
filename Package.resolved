@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/GeoffBurns/PlayingCard",
+        "state": {
+          "branch": null,
+          "revision": "0fd7c1ac4d5a1ec6b7e6d6ac05d53e4afab39c9d",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "PlayingCardUI",
+        "repositoryURL": "https://github.com/GeoffBurns/PlayingCardUI",
+        "state": {
+          "branch": null,
+          "revision": "73eed5c2b1613b1575905422d8ed8961cf24ca40",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "Utilities",
+        "repositoryURL": "https://github.com/GeoffBurns/Utilities",
+        "state": {
+          "branch": null,
+          "revision": "28a9e8ce7ab1e1c3c0c7d089cde92cb8ca283de5",
+          "version": "0.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
