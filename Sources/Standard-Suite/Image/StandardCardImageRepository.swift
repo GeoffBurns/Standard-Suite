@@ -23,7 +23,7 @@ public class StandardCardImageRepository : ICardImageRepository
         ]
     public func image(card: PlayingCard) -> Image?
     {
-        guard !StandardCardImageRepository.standardSuites.contains(card.suite) else {
+        guard StandardCardImageRepository.standardSuites.contains(card.suite) else {
             return nil
         }
         
